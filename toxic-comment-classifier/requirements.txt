@@ -1,0 +1,26 @@
+# ── Toxic Comment Classifier — Python Dependencies ───────────────────────────
+#
+# Install all dependencies with:
+#     pip install -r requirements.txt
+#
+# Python 3.8+ required
+
+# Core data science
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Natural Language Processing
+nltk>=3.8.1
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization (for confusion matrix + ROC curve)
+matplotlib>=3.6.0
+
+# Web interface
+streamlit>=1.28.0
+
+# Notebook support (optional — for notebook.ipynb)
+jupyter>=1.0.0
+ipykernel>=6.0.0
